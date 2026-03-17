@@ -1,44 +1,13 @@
-#  Kollab
-
-Kollab est une plateforme collaborative de gestion de projets développée avec **Laravel**, relié à une base de données **MySQL**, permettant aux équipes d'organiser et de suivre leurs projets selon une méthodologie **Agile** et **Kanban**.
-
-Le site intègre un système d'authentification sécurisé, un système de notification en temps réel, et propose une gestion hiérarchisée du travail : **Sprints** contenant des **Épics**, eux-mêmes divisés en **Tâches**.
-
-## 🎯 Fonctionnalités
-
-### Pour les visiteurs
-- Consultation de la présentation du site
-
-### Pour les utilisateurs connectés
-- **Créer des projets** et devenir automatiquement Chef de projet
-- **Gérer les collaborateurs** avec des rôles (Éditeur, Lecteur)
-- **Organiser le travail** : Sprints → Épics → Tâches
-- **Visualiser l'avancement** via tableau Kanban et Roadmap
-- **Recevoir des notifications** en temps réel
-
-### Pour l'administrateur
-- Gestion complète des utilisateurs et projets
-- Modération de la plateforme
-
-## Installation rapide
-
--- bash
-git clone https://github.com/DRINNHAUSENLou/Kollab.git
-cd Kollab
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
-
--- Créer la Base de Données "kollab" dans phpMyAdmin
-
-php artisan migrate
-npm run build
-php artisan serve
-
-Accédez à l'application sur http://localhost:8000
-
-
--- Langages et Outils
+<h1 align="center">Kollab</h1>
+<p align="center"> Kollab est une plateforme collaborative de gestion de projets développée avec <strong>Laravel</strong>, reliée à une base de données <strong>MySQL</strong>, permettant aux équipes d'organiser et de suivre leurs projets selon une méthodologie <strong>Agile</strong> et <strong>Kanban</strong>. </p> <p align="center"> Le site intègre un système d'authentification sécurisé,<br> un système de notification en temps réel,<br> et propose une gestion hiérarchisée du travail : </p> <p align="center"> <strong>Sprints → Épics → Tâches</strong> </p>
+<h2>Fonctionnalités</h2>
+<h3>Pour les visiteurs</h3>
+<ul> <li> Consultation de la présentation du site </li> </ul>
+<h3>Pour les utilisateurs connectés</h3>
+<ul> <li> <strong>Créer des projets</strong><br> <span style="margin-left:15px;">Devenir automatiquement Chef de projet</span> </li> <li> <strong>Gérer les collaborateurs</strong><br> <span style="margin-left:15px;">Rôles disponibles : Éditeur, Lecteur</span> </li> <li> <strong>Organiser le travail</strong><br> <span style="margin-left:15px;">Sprints → Épics → Tâches</span> </li> <li> <strong>Visualiser l'avancement</strong><br> <span style="margin-left:15px;">Tableau Kanban et Roadmap</span> </li> <li> <strong>Recevoir des notifications</strong><br> <span style="margin-left:15px;">Temps réel</span> </li> </ul>
+<h3>Pour l'administrateur</h3>
+<ul> <li> Gestion complète des utilisateurs et projets </li> <li> Modération de la plateforme </li> </ul>
+<h2>Installation rapide</h2>
+<pre><code> git clone https://github.com/DRINNHAUSENLou/Kollab.git cd Kollab composer install npm install cp .env.example .env php artisan key:generate </code></pre> <p> Créer la base de données <strong>kollab</strong> dans phpMyAdmin </p> <pre><code> php artisan migrate npm run build php artisan serve </code></pre> <p> Accédez à l'application sur :<br> <a href="http://localhost:8000">http://localhost:8000</a> </p>
+<h2>Langages et Outils</h2>
 <p align="left"> <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="45" height="45"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="45" height="45"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> </p>
-
