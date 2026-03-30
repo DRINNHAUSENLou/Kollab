@@ -8,11 +8,42 @@ Chaque projet peut impliquer plusieurs utilisateurs avec différents rôles (che
 Kollab offre ainsi aux équipes un environnement structuré pour organiser et suivre leurs projets selon les méthodologies Agile et Kanban.
 </p>
 
+<h2> Fonctionnalités</h2>
+
+<ul>
+  <li>Création et gestion de projets</li>
+  <li>Organisation en sprints, epics et tâches</li>
+  <li>Gestion des utilisateurs et rôles (chef, éditeur, lecteur)</li>
+  <li>Tableau de bord de suivi</li>
+  <li>Calendrier des de suivi des sprints</li>
+  <li>Système de notifications</li>
+</ul>
+
 <h2>Ci dessous une vidéo de démonstration des fonctionnalités de mon application</h2>
+<p align="center">
+  <a href="https://youtu.be/qbVq7aVB1rk">
+    <img src="https://img.youtube.com/vi/qbVq7aVB1rk/0.jpg" alt="Demo vidéo"/>
+  </a>
+</p>
 
-https://youtu.be/qbVq7aVB1rk
+<h2> Ce que ce projet m’a apporté</h2>
 
-<img width="1855" height="909" alt="Capture d&#39;écran 2026-03-30 203859" src="https://github.com/user-attachments/assets/97cb14de-ed1f-4eec-b6f0-983f2340cc3c" />
+<ul>
+  <li>Conception complète d’une application web avec Laravel</li>
+  <li>Mise en place d’une architecture MVC</li>
+  <li>Gestion des relations en base de données (MySQL)</li>
+  <li>Implémentation d’un système de rôles et permissions</li>
+  <li>Utilisation des méthodes Agile (sprints, organisation en epics)</li>
+  <li>Amélioration de mes compétences en UX/UI et organisation d’interface</li>
+</ul>
+
+<h2> Améliorations possibles</h2>
+
+<ul>
+  <li>Ajout de temps réel (WebSockets)</li>
+  <li>Amélioration du système de notifications</li>
+  <li>Ajout de statistiques avancées</li>
+</ul>
 
 <h2>Actions à faire pour mettre en place le projet</h2>
 
