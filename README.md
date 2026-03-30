@@ -6,6 +6,11 @@ Kollab est une plateforme collaborative de gestion de projets développée avec 
 Le site intègre un système d'authentification sécurisé, un système de notification en temps réel, et propose une gestion hiérarchisée du travail : **Sprints** contenant des **Épics**, eux-mêmes divisés en **Tâches**.
 </p>
 
+<h2>Ci dessous une vidéo de démonstration des fonctionnalités de mon application</h2>
+
+https://youtu.be/qbVq7aVB1rk
+
+<img width="1855" height="909" alt="Capture d&#39;écran 2026-03-30 203859" src="https://github.com/user-attachments/assets/97cb14de-ed1f-4eec-b6f0-983f2340cc3c" />
 
 <h2>Actions à faire pour mettre en place le projet</h2>
 
