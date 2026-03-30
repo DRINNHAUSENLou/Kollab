@@ -15,7 +15,7 @@ Kollab offre ainsi aux équipes un environnement structuré pour organiser et su
   <li>Organisation en sprints, epics et tâches</li>
   <li>Gestion des utilisateurs et rôles (chef, éditeur, lecteur)</li>
   <li>Tableau de bord de suivi</li>
-  <li>Calendrier des de suivi des sprints</li>
+  <li>Calendrier de suivi des sprints</li>
   <li>Système de notifications</li>
 </ul>
 
