@@ -1,9 +1,11 @@
 <h1 align="center">Kollab</h1>
 
 <p align="center">
-Kollab est une plateforme collaborative de gestion de projets développée avec **Laravel**, relié à une base de données **MySQL**, permettant aux équipes d'organiser et de suivre leurs projets selon une méthodologie **Agile** et **Kanban**.
+Kollab est une application de gestion de projet développée avec Laravel et connectée à une base de données MySQL.
 
-Le site intègre un système d'authentification sécurisé, un système de notification en temps réel, et propose une gestion hiérarchisée du travail : **Sprints** contenant des **Épics**, eux-mêmes divisés en **Tâches**.
+Inspirée des méthodes agiles, elle permet de créer des projets, de planifier le travail en sprints et de les organiser en epics (regroupements de tâches à long terme). L’avancement peut être suivi à l’aide d’un calendrier stylisé et d’un tableau de bord.
+Chaque projet peut impliquer plusieurs utilisateurs avec différents rôles (chef, éditeur, membre), ainsi qu’un système de notifications pour maintenir tous les participants informés.
+Kollab offre ainsi aux équipes un environnement structuré pour organiser et suivre leurs projets selon les méthodologies Agile et Kanban.
 </p>
 
 <h2>Ci dessous une vidéo de démonstration des fonctionnalités de mon application</h2>
