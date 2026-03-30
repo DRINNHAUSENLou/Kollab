@@ -19,6 +19,19 @@ Kollab offre ainsi aux équipes un environnement structuré pour organiser et su
   <li>Système de notifications</li>
 </ul>
 
+<h2> Conception et préparation</h2>
+
+Avant de commencer le développement, j'ai réfléchi à plusieurs aspects essentiels pour structurer efficacement l'application :
+
+<ul>
+  <li>Définition des types d’utilisateurs et de leurs rôles (chef, éditeur, lecteur)</li>
+  <li>Conception des parcours utilisateurs (navigation et actions possibles pour chaque type)</li>
+  <li>Création de personas pour mieux comprendre les besoins des utilisateurs</li>
+  <li>Définition des fonctionnalités principales à inclure dans l'application</li>
+  <li>Conception de la base de données pour gérer les projets, tâches, utilisateurs et rôles</li>
+  <li>Réalisation de maquettes UX/UI pour visualiser l’interface avant développement</li>
+</ul>
+
 <h2>Ci dessous une vidéo de démonstration des fonctionnalités de mon application</h2>
 <p align="center">
   <a href="https://youtu.be/qbVq7aVB1rk">
